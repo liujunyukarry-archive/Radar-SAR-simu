@@ -1,0 +1,13 @@
+# Editor / OS temporary files
+.DS_Store
+Thumbs.db
+*.asv
+*.m~
+*~
+
+# MATLAB / Simulink generated caches
+slprj/
+codegen/
+*.slxc
+
+# Do not ignore *.mat here: this repository may intentionally track experiment data.
